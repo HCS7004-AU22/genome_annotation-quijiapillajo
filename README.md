@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8959051&assignment_repo_type=AssignmentRepo)
 # Enabling gene prediction and annotation in eukaryotes
 In this section of the course, an introduction to how gene annotation is performed in 2022 is presented. The type of data to be used include Illumina reads from NextSeq 500.
 This section of the course includes:
